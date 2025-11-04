@@ -143,3 +143,10 @@ Cada nível foca em um conjunto de habilidades:
 🚀 **Boa sorte! Avance nos níveis e torne-se um mestre da programação estratégica!**
 
 > Equipe de Ensino – MateCheck
+## 🎯 Nível Mestre Implementado
+- Sistema de missões estratégicas
+- Alocação dinâmica com malloc/free
+- Modularização completa do código
+- Verificação automática de vitória
+- Ponteiros e passagem por referência
+- Interface em português
