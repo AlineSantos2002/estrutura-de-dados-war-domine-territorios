@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
+git add war_mestre.c
+nclude <stdlib.h>
 #include <string.h>
 #include <time.h>
 #include <locale.h>
